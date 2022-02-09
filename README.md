@@ -13,7 +13,7 @@
  <br>
  
 - I have been trying to improve my problem-solving skills on leetcode and hackerrank. I enjoy solving algorithm problem
-- I have been work on machine and deep learning for about 2 years
+- I have been work on machine learning and deep learning for about 2 years
 - Currently participating in Kodluyoruz & Carbon Consulting Data Science Bootcamp. 
 - You can reach me from: mucahit.karabultt@gmail.com 
 
